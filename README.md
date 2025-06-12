@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&width=435&lines=AI+researcher+%7C+Chemist)](https://git.io/typing-svg)
 
+I am a researcher and developer in the fields of artificial intelligence (AI) and neurobiology, with a particular focus on computational neuroscience. My background is in chemistry, which is also a relevant field for my work in AI.
+
+### Researc interests:
+🌐 Artificial Intelligence ; 🧠 Spiking Neural Networks; 🦾 Hand Gesture Recognition systems, prosthetics; 	🧪 Organic and Quantum Chemistry;
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <!--
