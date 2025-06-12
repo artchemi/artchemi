@@ -1,6 +1,9 @@
 # ℍ𝕚, 𝕀'𝕞 𝔻𝕒𝕟𝕚𝕚𝕝! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&width=435&lines=AI+researcher+%7C+Chemist)](https://git.io/typing-svg)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 <!--
 **artchemi/artchemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
