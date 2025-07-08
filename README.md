@@ -7,8 +7,6 @@ I am a researcher and developer in the fields of artificial intelligence (AI) an
 ### Researc interests:
 🌐 Artificial Intelligence ; 🧠 Spiking Neural Networks; 🦾 Hand Gesture Recognition systems, prosthetics; 	🧪 Organic and Quantum Chemistry;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <!--
