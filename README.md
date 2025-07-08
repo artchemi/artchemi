@@ -21,6 +21,12 @@ I am a researcher and developer in the fields of artificial intelligence (AI) an
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 📬 Contacts
+
+- Email: `art.dan08@yandex.ru`
+
+- Telegram: `@art_dan08`
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=artchemi&show_icons=true)
 
 
