@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8C00&width=435&lines=AI+researcher+%7C+Chemist)](https://git.io/typing-svg)
 
-I am a researcher and developer in the fields of artificial intelligence (AI) and neurobiology, with a particular focus on computational neuroscience. My background is in chemistry, which is also a relevant field for my work in AI.
+I am a researcher and developer specializing in AI and molecular modelling.
 
 ## Projects
 - [ ] [LightCBAM HGR](https://github.com/artchemi/LightCBAM_HGR) - hand gesture recognition system by sEMG signals.
