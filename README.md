@@ -4,9 +4,6 @@
 
 I am a researcher and developer in the fields of artificial intelligence (AI) and neurobiology, with a particular focus on computational neuroscience. My background is in chemistry, which is also a relevant field for my work in AI.
 
-## Researc interests
-🌐 Artificial Intelligence ; 🧠 Spiking Neural Networks; 🦾 Hand Gesture Recognition systems, prosthetics; 	🧪 Organic and Quantum Chemistry;
-
 ## Projects
 - [ ] [LightCBAM HGR](https://github.com/artchemi/LightCBAM_HGR) - hand gesture recognition system by sEMG signals.
 
