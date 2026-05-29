@@ -17,7 +17,6 @@ I am a researcher and developer specializing in AI and molecular modelling.
 
 - Telegram: `@art_dan08`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artchemi&show_icons=true)
 
 
 <!--
